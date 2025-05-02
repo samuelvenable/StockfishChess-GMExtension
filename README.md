@@ -1,0 +1,1 @@
+# StockfishChess GameMaker Extension
