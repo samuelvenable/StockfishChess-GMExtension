@@ -1,0 +1,6 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"libxprocess","order":1,"path":"extensions/libxprocess/libxprocess.yy",},
+  ],
+}

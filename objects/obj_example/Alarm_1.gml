@@ -1,0 +1,1 @@
+ExecutedProcessWriteToStandardInput(global.pid, "go movetime 2000\n");
